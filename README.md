@@ -1,0 +1,2 @@
+# djproject
+django development
